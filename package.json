@@ -1,0 +1,16 @@
+{
+  "name": "jest-performance-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/test.js",
+  "scripts": {
+    "jest": "jest",
+    "mocha": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1",
+    "mocha": "^9.1.3"
+  }
+}
