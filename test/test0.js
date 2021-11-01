@@ -2,6 +2,6 @@ const assert = require('assert');
 const {a0} = require('../src/root');
 describe('jest performance', function() {
   it('should be fast', function() {
-    assert.equal(a0, 0);
+    assert.equal(a0, 1);
   });
 });
